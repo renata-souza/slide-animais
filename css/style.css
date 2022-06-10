@@ -75,6 +75,7 @@ img {
 }
 
 .custom-controls li {
+  cursor: pointer;
   opacity: .8;
   transform: scale(.8);
   width: 40px;
